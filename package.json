@@ -1,0 +1,26 @@
+{
+"name": "ocumen-jk98",
+"version": "1.0.0",
+"description": "This document collaboration tool allows multiple users to edit and collaborate on documents in real-time, with features such as version control, commenting, and document sharing, enhancing productivity and teamwork.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/prateKL/Cloud-Based-Document-Collaboration-Too.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "prateKL",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
